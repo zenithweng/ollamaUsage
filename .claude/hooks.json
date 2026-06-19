@@ -1,0 +1,12 @@
+{
+  "hooks": [
+    {
+      "name": "update-ollama-usage-hud",
+      "event": "user_prompt_submit",
+      "command": [
+        "D:/Program Files/nodejs/node.exe",
+        "E:/ai/work/ollamausage/ollama-usage-hud.mjs"
+      ]
+    }
+  ]
+}
